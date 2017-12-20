@@ -1,4 +1,4 @@
-# CloudBridgeMaskCalculator
+# CloudBridge Cluster Builder
 Cli programe to assist with determining the number of cloudbridges and the mask to apply for a Wccp cluster when using Citrix Cloudbridges(Sd-Wan) appliances
 
 # Instructions
